@@ -3,7 +3,7 @@
 A responsive Netflix landing page clone built using pure HTML and CSS.
 This project replicates the front-end design of the official Netflix website for learning and practice purposes.
 
-## 📌 Features
+# 📌 Features
 
 🎥 Netflix-inspired modern UI
 
@@ -17,7 +17,7 @@ This project replicates the front-end design of the official Netflix website for
 
 💻 Built with pure HTML & CSS (No JavaScript)
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5
 CSS3
@@ -33,7 +33,7 @@ netflix-clone/
 
 That's it ✅
 
-## 🎯 Project Purpose
+# 🎯 Project Purpose
 
 This project was created to practice:
 
@@ -45,11 +45,11 @@ Responsive web design
 
 Flexbox / Grid layout
 
-## ⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This project is made for educational purposes only.
 It is not affiliated with or endorsed by Netflix.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 NAME GAURAV YADAV
